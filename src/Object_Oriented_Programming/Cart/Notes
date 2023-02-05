@@ -1,0 +1,9 @@
+(Also known as OOP)
+Everything is an object in oop.
+Data + behavior = object
+Inheritance = allows you to extend classes/behavior (can reuse code)
+Encapsulation = class > methods and variables.
+Access modifiers = Private, default, protected and public.
+Polymorphism - one interface multiple implementations.
+Abstraction - differences between something? (not 100% sure)
+(Ended at class objects)
