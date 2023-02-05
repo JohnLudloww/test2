@@ -7,4 +7,7 @@ Access modifiers = Private, default, protected and public.
 Polymorphism - one interface multiple implementations.
 Abstraction - differences between something? (not 100% sure)
 Classes can contain: fields, initialization blocks, Constructors, methods and nested loops.
+final means you cannot add anymore classes or extend it. public final something{
+
+}
 
